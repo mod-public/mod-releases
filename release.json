@@ -7,8 +7,8 @@
     "manifestUrl": "https://github.com/mod-public/mod-releases/releases/download/build-0001/manifest.json"
   },
   "patch": {
-    "number": 8,
-    "tag": "patch-0001-0008",
-    "manifestUrl": "https://github.com/mod-public/mod-releases/releases/download/patch-0001-0008/manifest.json"
+    "number": 9,
+    "tag": "patch-0001-0009",
+    "manifestUrl": "https://github.com/mod-public/mod-releases/releases/download/patch-0001-0009/manifest.json"
   }
 }
