@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": "test_29_10_26",
+  "version": "test_30_10_26",
   "build": {
     "number": 3,
     "tag": "build-0003",
     "manifestUrl": "https://github.com/mod-public/mod-releases/releases/download/build-0003/manifest.json"
   },
   "patch": {
-    "number": 0,
-    "tag": "",
-    "manifestUrl": ""
+    "number": 1,
+    "tag": "patch-0003-0001",
+    "manifestUrl": "https://github.com/mod-public/mod-releases/releases/download/patch-0003-0001/manifest.json"
   }
 }
